@@ -1,0 +1,568 @@
+ 5 seconds delay, get ready!!
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1378
+ Y value = 8359
+ Z value = 665
+ **********ANGLE DATA********** 
+Roll = 205.296936
+Pitch = 183.883865
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -357
+ Y value = -3766
+ Z value = 7681
+ **********ANGLE DATA********** 
+Roll = 441.893158
+Pitch = 285.145691
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1021
+ Y value = 4593
+ Z value = 7016
+ **********ANGLE DATA********** 
+Roll = 236.000000
+Pitch = 102.000000
+
+ **************************************** 
+****************Jumping Jacks detected!!!!!!!!**********************
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2631
+ Y value = 8395
+ Z value = -693
+ **********ANGLE DATA********** 
+Roll = 167.288757
+Pitch = 176.116150
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -742
+ Y value = -3920
+ Z value = 6632
+ **********ANGLE DATA********** 
+Roll = 404.685974
+Pitch = 271.076782
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1889
+ Y value = 4475
+ Z value = 5939
+ **********ANGLE DATA********** 
+Roll = 237.000000
+Pitch = 95.000000
+
+ **************************************** 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2091
+ Y value = 8408
+ Z value = -841
+ **********ANGLE DATA********** 
+Roll = 159.624680
+Pitch = 175.145599
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -2970
+ Y value = -4088
+ Z value = 6641
+ **********ANGLE DATA********** 
+Roll = 291.420959
+Pitch = 271.671387
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 879
+ Y value = 4320
+ Z value = 5800
+ **********ANGLE DATA********** 
+Roll = 132.000000
+Pitch = 96.000000
+
+ **************************************** 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1711
+ Y value = 8513
+ Z value = -1040
+ **********ANGLE DATA********** 
+Roll = 146.953781
+Pitch = 173.318558
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -3461
+ Y value = -4000
+ Z value = 6492
+ **********ANGLE DATA********** 
+Roll = 278.605591
+Pitch = 273.270752
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1750
+ Y value = 4513
+ Z value = 5452
+ **********ANGLE DATA********** 
+Roll = 132.000000
+Pitch = 100.000000
+
+ **************************************** 
+Jumping Jacks count = 0 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1739
+ Y value = 8578
+ Z value = -637
+ **********ANGLE DATA********** 
+Roll = 160.972580
+Pitch = 176.180847
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -3447
+ Y value = -2037
+ Z value = 7125
+ **********ANGLE DATA********** 
+Roll = 285.401062
+Pitch = 332.881470
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1708
+ Y value = 6541
+ Z value = 6488
+ **********ANGLE DATA********** 
+Roll = 125.000000
+Pitch = 156.000000
+
+ **************************************** 
+Jumping Jacks count = 1 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1742
+ Y value = 8341
+ Z value = -323
+ **********ANGLE DATA********** 
+Roll = 170.459641
+Pitch = 178.057846
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -2283
+ Y value = -3450
+ Z value = 7398
+ **********ANGLE DATA********** 
+Roll = 324.424438
+Pitch = 288.676941
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 541
+ Y value = 4891
+ Z value = 7075
+ **********ANGLE DATA********** 
+Roll = 154.000000
+Pitch = 110.000000
+
+ **************************************** 
+Jumping Jacks count = 2 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1199
+ Y value = 8763
+ Z value = -607
+ **********ANGLE DATA********** 
+Roll = 151.590363
+Pitch = 176.304016
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -2563
+ Y value = -3262
+ Z value = 7293
+ **********ANGLE DATA********** 
+Roll = 312.093384
+Pitch = 290.631622
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1364
+ Y value = 5501
+ Z value = 6686
+ **********ANGLE DATA********** 
+Roll = 161.000000
+Pitch = 114.000000
+
+ **************************************** 
+Jumping Jacks count = 3 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2072
+ Y value = 8308
+ Z value = -577
+ **********ANGLE DATA********** 
+Roll = 163.674683
+Pitch = 176.049194
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -98
+ Y value = -3688
+ Z value = 7384
+ **********ANGLE DATA********** 
+Roll = 462.732452
+Pitch = 282.044128
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1974
+ Y value = 4620
+ Z value = 6807
+ **********ANGLE DATA********** 
+Roll = 299.000000
+Pitch = 106.000000
+
+ **************************************** 
+Jumping Jacks count = 4 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2085
+ Y value = 8586
+ Z value = -875
+ **********ANGLE DATA********** 
+Roll = 155.595291
+Pitch = 174.272354
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -2228
+ Y value = -4209
+ Z value = 6419
+ **********ANGLE DATA********** 
+Roll = 317.222626
+Pitch = 277.419678
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 143
+ Y value = 4377
+ Z value = 5544
+ **********ANGLE DATA********** 
+Roll = 162.000000
+Pitch = 103.000000
+
+ **************************************** 
+Jumping Jacks count = 5 
+***ALL JUMPING JACKS COMPLETED, LETS MOVE TO NEXT EXERCISE, 5 seconds break!!!****
+ 5 seconds delay, get ready!!
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2510
+ Y value = 8494
+ Z value = 867
+ **********ANGLE DATA********** 
+Roll = 200.137619
+Pitch = 185.727646
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2296
+ Y value = 8531
+ Z value = 142
+ **********ANGLE DATA********** 
+Roll = 183.580521
+Pitch = 180.954926
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 214
+ Y value = 37
+ Z value = 725
+ **********ANGLE DATA********** 
+Roll = 17.000000
+Pitch = 5.000000
+
+ **************************************** 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2115
+ Y value = 8543
+ Z value = 136
+ **********ANGLE DATA********** 
+Roll = 179.996185
+Pitch = 179.999054
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2182
+ Y value = 8470
+ Z value = 509
+ **********ANGLE DATA********** 
+Roll = 191.443726
+Pitch = 182.864548
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 67
+ Y value = 73
+ Z value = 373
+ **********ANGLE DATA********** 
+Roll = 12.000000
+Pitch = 3.000000
+
+ **************************************** 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2134
+ Y value = 8455
+ Z value = 479
+ **********ANGLE DATA********** 
+Roll = 191.443726
+Pitch = 182.913086
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2432
+ Y value = 8433
+ Z value = 387
+ **********ANGLE DATA********** 
+Roll = 186.737534
+Pitch = 181.942154
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 298
+ Y value = 22
+ Z value = 92
+ **********ANGLE DATA********** 
+Roll = 5.000000
+Pitch = 1.000000
+
+ **************************************** 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2390
+ Y value = 8535
+ Z value = 260
+ **********ANGLE DATA********** 
+Roll = 183.580521
+Pitch = 180.954926
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1985
+ Y value = 8584
+ Z value = -519
+ **********ANGLE DATA********** 
+Roll = 167.741302
+Pitch = 177.135452
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 405
+ Y value = 49
+ Z value = 259
+ **********ANGLE DATA********** 
+Roll = 16.000000
+Pitch = 3.000000
+
+ **************************************** 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2781
+ Y value = 8281
+ Z value = -483
+ **********ANGLE DATA********** 
+Roll = 170.960907
+Pitch = 177.036682
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2163
+ Y value = 8380
+ Z value = 707
+ **********ANGLE DATA********** 
+Roll = 199.027420
+Pitch = 184.854401
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 618
+ Y value = 99
+ Z value = 224
+ **********ANGLE DATA********** 
+Roll = 29.000000
+Pitch = 7.000000
+
+ **************************************** 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2414
+ Y value = 8300
+ Z value = 1168
+ **********ANGLE DATA********** 
+Roll = 206.763748
+Pitch = 187.897797
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1806
+ Y value = 8505
+ Z value = -1437
+ **********ANGLE DATA********** 
+Roll = 133.328308
+Pitch = 170.459641
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 608
+ Y value = 205
+ Z value = 269
+ **********ANGLE DATA********** 
+Roll = 73.000000
+Pitch = 17.000000
+
+ **************************************** 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1922
+ Y value = 8593
+ Z value = -526
+ **********ANGLE DATA********** 
+Roll = 166.801590
+Pitch = 177.135452
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2144
+ Y value = 8354
+ Z value = 1446
+ **********ANGLE DATA********** 
+Roll = 217.638870
+Pitch = 189.701752
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 222
+ Y value = 239
+ Z value = 920
+ **********ANGLE DATA********** 
+Roll = 51.000000
+Pitch = 12.000000
+
+ **************************************** 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1801
+ Y value = 8496
+ Z value = 48
+ **********ANGLE DATA********** 
+Roll = 179.995224
+Pitch = 179.999054
+
+ **************************************** 
+3 seconds delay initiated
+

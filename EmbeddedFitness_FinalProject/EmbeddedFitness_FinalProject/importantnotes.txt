@@ -1,0 +1,36 @@
+suryanamaskar -> acceleroemeter -> 1 point value
+exercises -> accelerometer -> 2 point value 
+
+
+calories -> moderate -> >30 seconds and <60 seconds
+	vigorous -> <30 seconds 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+final project => suryanamaskar + exercises => suryanamaskarAcceleroemeter -> 1 point value
+				   =>  exerciseAccelerometer -> 2 point value 
+
+
+https://golf.procon.org/met-values-for-800-activities/
+
+suryanamaskar - blue led
+
+situps - red led
+
+jumpingjacks - orange led
+
+squats - green led
+

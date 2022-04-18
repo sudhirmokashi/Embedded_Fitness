@@ -1,0 +1,227 @@
+ 5 seconds delay, long press the push button
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 3659
+ Y value = -3584
+ Z value = 6448
+ **********ANGLE DATA********** 
+Roll = 273.653748
+Pitch = 273.653748
+
+ **************************************** 
+Surya Namaskar Pose 1 : Prarthana Mudra
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 184
+ Y value = -5940
+ Z value = -5871
+ **********ANGLE DATA********** 
+Roll = 268.977905
+Pitch = 54.229095
+
+ **************************************** 
+Surya Namaskar Pose 2 : Hastottanasan
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1484
+ Y value = 8254
+ Z value = -1759
+ **********ANGLE DATA********** 
+Roll = 114.323540
+Pitch = 168.162781
+
+ **************************************** 
+Surya Namaskar Pose 3 : Padhastasan 
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -419
+ Y value = 8345
+ Z value = 2075
+ **********ANGLE DATA********** 
+Roll = 386.809570
+Pitch = 193.569855
+
+ **************************************** 
+Surya Namaskar Pose 4 : Ashwa Sanchalanasan
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -3
+ Y value = 8364
+ Z value = 2243
+ **********ANGLE DATA********** 
+Roll = 462.705627
+Pitch = 194.535065
+
+ **************************************** 
+Surya Namaskar Pose 5 : Dandasan
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 3047
+ Y value = 7171
+ Z value = 4053
+ **********ANGLE DATA********** 
+Roll = 252.247284
+Pitch = 211.752167
+
+ **************************************** 
+Surya Namaskar Pose 6 : Ashtang Pranam
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 879
+ Y value = 8113
+ Z value = 2991
+ **********ANGLE DATA********** 
+Roll = 331.075867
+Pitch = 201.013016
+
+ **************************************** 
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 445
+ Y value = 8091
+ Z value = 3090
+ **********ANGLE DATA********** 
+Roll = 386.809570
+Pitch = 201.013016
+
+ **************************************** 
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 128
+ Y value = 7868
+ Z value = 3589
+ **********ANGLE DATA********** 
+Roll = 462.720734
+Pitch = 205.864075
+
+ **************************************** 
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -1198
+ Y value = 8192
+ Z value = 2093
+ **********ANGLE DATA********** 
+Roll = 271.482178
+Pitch = 193.802902
+
+ **************************************** 
+Surya Namaskar Pose 7 : Bhujangasan
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -127
+ Y value = 8322
+ Z value = 2471
+ **********ANGLE DATA********** 
+Roll = 462.710083
+Pitch = 196.462906
+
+ **************************************** 
+Surya Namaskar Pose 8 : Parvatasan
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1037
+ Y value = 8493
+ Z value = 1448
+ **********ANGLE DATA********** 
+Roll = 256.820313
+Pitch = 189.540359
+
+ **************************************** 
+Surya Namaskar Pose 9 : Ashwa Sanchalanasan
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 1339
+ Y value = 8312
+ Z value = -2313
+ **********ANGLE DATA********** 
+Roll = 92.692245
+Pitch = 164.234680
+
+ **************************************** 
+Surya Namaskar Pose 10 : Padhastasan
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 514
+ Y value = -6793
+ Z value = -4737
+ **********ANGLE DATA********** 
+Roll = 232.668564
+Pitch = 38.779541
+
+ **************************************** 
+Surya Namaskar Pose 11 : Hastottanasan
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2986
+ Y value = -4265
+ Z value = 6559
+ **********ANGLE DATA********** 
+Roll = 289.598145
+Pitch = 278.268738
+
+ **************************************** 
+Surya Namaskar Pose 12 : Prarthana Mudra
+Exercise Mode: Yoga
+5 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 7606
+ Y value = -1636
+ Z value = 3135
+ **********ANGLE DATA********** 
+Roll = 203.646210
+Pitch = 282.044128
+
+ **************************************** 
+Surya Namaskar Completed
+***ALL SURYANAMASKARS COMPLETED, LETS MOVE TO NEXT EXERCISE, 5 seconds break!!!****
+Calories Burnt = 0.46585
+Exercise Mode: Yoga
+5 seconds delay initiated
+

@@ -1,0 +1,256 @@
+ 5 seconds delay, long press the push button
+Normal Exercise Mode
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -3188
+ Y value = 7457
+ Z value = -1713
+ **********ANGLE DATA********** 
+Roll = 30.943794
+Pitch = 166.801590
+
+ **************************************** 
+Normal Exercise Mode
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -6313
+ Y value = -4257
+ Z value = 3474
+ **********ANGLE DATA********** 
+Roll = 329.056213
+Pitch = 315.117249
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 3125
+ Y value = 3200
+ Z value = 1761
+ **********ANGLE DATA********** 
+Roll = 299.000000
+Pitch = 149.000000
+
+ **************************************** 
+****************Situpps detected!!!!!!!!**********************
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -3077
+ Y value = 7327
+ Z value = -3014
+ **********ANGLE DATA********** 
+Roll = 55.470478
+Pitch = 156.541321
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -5903
+ Y value = -3443
+ Z value = 4657
+ **********ANGLE DATA********** 
+Roll = 314.854889
+Pitch = 285.739471
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2826
+ Y value = 3884
+ Z value = 1643
+ **********ANGLE DATA********** 
+Roll = 259.000000
+Pitch = 129.000000
+
+ **************************************** 
+Situps Count = 1 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -2716
+ Y value = 7100
+ Z value = -3394
+ **********ANGLE DATA********** 
+Roll = 68.813049
+Pitch = 152.709061
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -6310
+ Y value = -3929
+ Z value = 3908
+ **********ANGLE DATA********** 
+Roll = 325.278351
+Pitch = 304.529510
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 3594
+ Y value = 3171
+ Z value = 514
+ **********ANGLE DATA********** 
+Roll = 257.000000
+Pitch = 152.000000
+
+ **************************************** 
+Situps Count = 2 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -2885
+ Y value = 6636
+ Z value = -4177
+ **********ANGLE DATA********** 
+Roll = 77.835068
+Pitch = 145.091583
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -6284
+ Y value = -3451
+ Z value = 3863
+ **********ANGLE DATA********** 
+Roll = 325.278351
+Pitch = 298.103119
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 3399
+ Y value = 3185
+ Z value = 314
+ **********ANGLE DATA********** 
+Roll = 248.000000
+Pitch = 153.000000
+
+ **************************************** 
+Situps Count = 3 
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -3181
+ Y value = 6775
+ Z value = -3763
+ **********ANGLE DATA********** 
+Roll = 64.765610
+Pitch = 149.266922
+
+ **************************************** 
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = -6008
+ Y value = -3773
+ Z value = 4401
+ **********ANGLE DATA********** 
+Roll = 318.463531
+Pitch = 294.708466
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2827
+ Y value = 3002
+ Z value = 638
+ **********ANGLE DATA********** 
+Roll = 254.000000
+Pitch = 145.000000
+
+ **************************************** 
+Situps Count = 4 
+***ALL SITUPS COMPLETED, LETS MOVE TO NEXT EXERCISE, 5 seconds break!!!****
+Calories Burnt = 0.39527
+ 5 seconds delay, long press the push button
+Normal Exercise Mode
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 9577
+ Y value = -999
+ Z value = -187
+ **********ANGLE DATA********** 
+Roll = 179.144836
+Pitch = 8.179483
+
+ **************************************** 
+Normal Exercise Mode
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 6836
+ Y value = 394
+ Z value = 5325
+ **********ANGLE DATA********** 
+Roll = 223.309921
+Pitch = 432.465363
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 2741
+ Y value = 605
+ Z value = 5138
+ **********ANGLE DATA********** 
+Roll = 44.000000
+Pitch = 424.000000
+
+ **************************************** 
+Normal Exercise Mode
+3 seconds delay initiated
+Taking Initial values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 7863
+ Y value = 1476
+ Z value = 3887
+ **********ANGLE DATA********** 
+Roll = 207.901413
+Pitch = 307.790558
+
+ **************************************** 
+Normal Exercise Mode
+3 seconds delay initiated
+Taking final values
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 7449
+ Y value = 1883
+ Z value = 4094
+ **********ANGLE DATA********** 
+Roll = 211.623993
+Pitch = 291.142212
+
+ **************************************** 
+ **************************************** 
+ **********RAW DATA********** 
+ X value = 414
+ Y value = 407
+ Z value = 207
+ **********ANGLE DATA********** 
+Roll = 4.000000
+Pitch = 16.000000
+
+ **************************************** 
+****************Squats detected!!!!!!!!**********************
+3 seconds delay initiated
+
